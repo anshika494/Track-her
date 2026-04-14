@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <h1 align="center">Stree</h1>
+  <h1 align="center">TrackHer</h1>
   <p align="center">
     <strong>Empowering Women's Safety and Growth</strong>
     <br />
