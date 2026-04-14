@@ -24,7 +24,7 @@
 
 ## About The Project
 
-Stree is a dedicated platform designed to enhance women's safety through community-driven reporting and resource sharing. It provides a secure environment for women to anonymously report incidents, visualize safety data on interactive maps, and connect with supportive tech communities.
+Track-Her is a dedicated platform designed to enhance women's safety through community-driven reporting and resource sharing. It provides a secure environment for women to anonymously report incidents, visualize safety data on interactive maps, and connect with supportive tech communities.
 
 ### Project Gallery
 ![Screenshot 2024-09-01 140429](https://github.com/user-attachments/assets/6dfe5973-6268-4c9c-9d12-9620aff816fc)
@@ -71,8 +71,8 @@ Stree is a dedicated platform designed to enhance women's safety through communi
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/anshika494/stree.git
-   cd stree
+   git clone https://github.com/anshika494/Track-her
+   cd TrackHer
    ```
 
 2. **Backend Setup**
